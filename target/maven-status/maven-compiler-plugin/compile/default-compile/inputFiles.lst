@@ -1,0 +1,10 @@
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/JpaexampleApplication.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/controller/RoleController.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/controller/UserController.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/model/Role.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/model/User.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/repository/RoleRepository.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/repository/UserRepository.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/security/SecurityConfig.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/service/RoleService.java
+/Volumes/SSD/Developer/Java/IntelliJProjects/jpaexample/src/main/java/com/example/jpaexample/service/UserService.java
